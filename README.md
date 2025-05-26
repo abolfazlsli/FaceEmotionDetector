@@ -26,7 +26,7 @@ It detects various emotions such as happiness, sadness, anger, and more, display
 ## Usage
 1. Run the script:
    ```bash
-   python main.py
+   python app.py
    ```
 2. Press `q` to exit the application.
 
